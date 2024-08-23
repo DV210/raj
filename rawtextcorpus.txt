@@ -1,0 +1,11 @@
+Lemmatization is the process that identifies the correct intended part-of-speech (POS) and
+the meaning of words that are present in sentences.
+In lemmatization, we remove the inflection endings and convert the word into its base form,
+present in a dictionary or in the vocabulary. If we use vocabulary and morphological
+analysis of all the words present in the raw text properly, then we can get high accuracy for
+lemmatization.
+Lemmatization transforms words present in the raw text to its lemma by using a tagged
+dictionary such as WordNet.
+Lemmatization uses a tagged dictionary such as WordNet. Mostly, it's a human-tagged
+dictionary. So human efforts and the time it takes to make WordNet for different languages
+is challenging.
